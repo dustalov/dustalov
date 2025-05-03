@@ -1,6 +1,5 @@
 **Publications:** [Google Scholar](https://scholar.google.com/citations?user=wPD4g7AAAAAJ), [dblp](https://dblp.org/pid/148/4508)
 
-
 [<img src="https://plugins.jetbrains.com/files/22282/733664/icon/default.svg" width="128" height="128" alt="Mellum">](https://huggingface.co/JetBrains/Mellum-4b-base)
 [<img src="https://raw.githubusercontent.com/dustalov/evalica/master/Evalica.svg" width="128" height="128" alt="Evalica">](https://github.com/dustalov/evalica)
 [<img src="https://dustalov.github.io/nlpafos/NLP-at-NUP-Square.jpg" width="128" height="128" alt="NLP @ NUP">](https://dustalov.github.io/nlpafos/)
